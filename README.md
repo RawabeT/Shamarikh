@@ -9,3 +9,16 @@ A company profile website that intrduce client business and tell the audience ab
 ## Demo
 
 https://shamarikh.co/
+
+## Technologies:
+
+### Front-End
+
+- HTML
+- CSS
+- JS
+
+### Back-End
+
+- phpMyAdmin
+- mySql
