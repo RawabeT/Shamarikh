@@ -21,4 +21,3 @@ https://shamarikh.co/
 ### Back-End
 
 - phpMyAdmin
-- mySql
