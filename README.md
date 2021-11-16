@@ -6,9 +6,6 @@
 
 A company profile website that intrduce client business and tell the audience about company's services.
 
-## Demo
-
-https://shamarikh.co/
 
 ## Technologies:
 
